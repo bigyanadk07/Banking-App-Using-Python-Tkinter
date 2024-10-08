@@ -21,10 +21,10 @@ There's no external installation required for this application.
 
 **Usage**
 
-Clone this repository.
-Open a terminal in the project directory.
-Run the application using python app.py (replace app.py with your main script name if different).
-This will launch the banking app.
+Clone this repository.  
+Open a terminal in the project directory.  
+Run the application using python app.py (replace app.py with your main script name if different).  
+This will launch the banking app.  
 
 Note: This application is for educational purposes only and does not implement security best practices.  ⚠️
 
