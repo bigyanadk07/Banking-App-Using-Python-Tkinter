@@ -1,7 +1,7 @@
-**Simple Python Banking App** 🏦💰
+**Simple Python Banking App** 🏦💰  
 This Python application simulates a basic banking system with functionalities for user accounts, deposits, withdrawals, and account management.
 
-**Features**  ✨
+****Features****  ✨
 
 User login and account creation 👤💳
 Account management (view, create, delete) 🏦
