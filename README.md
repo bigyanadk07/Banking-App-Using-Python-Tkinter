@@ -23,14 +23,14 @@ There's no external installation required for this application.
 
 Clone this repository.  
 Open a terminal in the project directory.  
-Run the application using python app.py (replace app.py with your main script name if different).  
+Run the application using python (Final)Bank_App.py.  
 This will launch the banking app.  
 
 Note: This application is for educational purposes only and does not implement security best practices.  ⚠️
 
 **Data Storage**
 
-This app uses JSON to store account information in a file named accounts.json.
+This app uses JSON to store account information in a file named "accounts.json".
 
 **Contributing**
 
